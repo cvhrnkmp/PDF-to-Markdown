@@ -1,4 +1,5 @@
 # PDF-to-Markdown
+![image](https://github.com/user-attachments/assets/de60c57d-930c-4537-931b-20aa8a85b76a)
 
 Welcome to the **PDF to Markdown Converter** repository! This project employs the capabilities of [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/) to efficiently process PDF documents and convert them into Markdown files. The repository demonstrates a lightweight and straightforward solution to extracting the text and structure from PDFs, while maintaining compatibility with Markdown syntax. Furthermore the repository shows the devoloping path of the code.
 

@@ -7,7 +7,7 @@ Welcome to the **PDF to Markdown Converter** repository! This project employs th
   
 ## Why Use PyMuPDF?
 
-When it comes to converting PDFs into Markdown, many modern approaches, for instance [Docling](https://github.com/docling/docling), offer advanced features such as the management of tables, images, and mathematical equations. However, such tools often misinterpret document structures, for example mistaking headings for instances, which is a common issue.
+When it comes to converting PDFs into Markdown, many modern approaches, for instance [Docling](https://github.com/docling/docling), offer advanced features such as the management of tables, images, and mathematical equations. However, such tools often misinterpret document structures, for example mistaking headings, which is a common issue.
 
 **PyMuPDF**, on the other hand, provides a simpler and more precise method for:
 
@@ -21,7 +21,7 @@ While PyMuPDF has its limitations, such as no or less robust handling of:
 - **Images**
 - **Mathematical equations**
 
-it excels in producing a clean, text-based Markdown representation of PDF content that serves as a practical foundation for further refinement.
+It excels in producing a clean, text-based Markdown representation of PDF content that serves as a practical foundation for further refinement.
 
 ## Features
 

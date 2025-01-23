@@ -46,4 +46,4 @@ This repository is ideal for:
 - Converting textual PDFs into Markdown for use in blogs, documentation, or content pipelines.
 - Working with documents where the structure and content are more important than complex formatting or visual elements.
 - Users who require a straightforward and reliable tool with minimal overhead.
-
+- Part of a pre-processing pipeline for Retrieval Augmented Generation Applications.
